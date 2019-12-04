@@ -13,6 +13,6 @@ CREATE TABLE pessoa (
 
 INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep) VALUES ('Maurício', '1', 'Interior', 0, 'Casa', 'Linha Caixa d\'agua', '89514-899');
 INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep) VALUES ('Ketlin', '1', 'Martello', 184, 'Casa', 'João Angeli', '89500-899');
-INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep) VALUES ('Paula', '0', NULL, 0, NULL, NULL, NULL);
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep) VALUES ('João', '0', NULL, 0, NULL, NULL, NULL);
 INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep) VALUES ('Gabriel', '1', 'Belo', 226, 'Casa', 'Quebrada', '89514-899');
 INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep) VALUES ('Delmison', '1', NULL, 0, NULL, NULL, NULL);
